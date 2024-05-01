@@ -17,14 +17,14 @@ Technologies:
   
 Getting Started:
 
-- Clone the repository: git clone https://github.com/madusha026/Booking-App.git
+- Clone the repository: git clone https://github.com/madusha026/BookingX.git
 - Install dependencies: npm install
 - Start the development server: npm start 
 - Access the application in your browser: http://localhost:3001
   
 Additional Notes:
 
-Feel free to replace https://github.com/madusha026/Booking-App.git with the actual URL of your repository.
+Feel free to replace https://github.com/madusha026/BookingX.git with the actual URL of your repository.
 
 Further Resources:
 
